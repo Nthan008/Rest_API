@@ -1,3 +1,4 @@
 ## FastAPI
-![Table](/assets/Table.png)
-![fastAPI](/assets/FastAPI.png)
+![Table](table1.jpg)
+![Table](table2.jpg)
+![fastAPI](Screenshot.png)
